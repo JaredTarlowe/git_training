@@ -2,4 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 More Alice text
 Third line of text
 Text for rebase tutorial
-Github change
+Local change
